@@ -1,0 +1,35 @@
+_repo: Cantos-Sagrados_22299
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arriaga, Manuel de
+    alias: Silveira, Manuel de Arriaga Brum da
+    birthdate: 1840
+    deathdate: 1917
+    gutenberg_agent_id: '25245'
+    url: http://www.gutenberg.org/2009/agents/25245
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Manuel_de_Arriaga
+    - http://pt.wikipedia.org/wiki/Manuel_de_Arriaga
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22299'
+language: pt
+language_note: This ebook uses 19th century spelling.
+production_note: Produced by Pedro Saborano
+publication_note: "Lisboa:\r\nManoel Gomes, Editor\r\nLivreiro de Suas Magestades\
+  \ e Altezas\r\n70--Rua Garrett (Chiado)--72\r\n1899"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: Cantos Sagrados
+url: http://www.gutenberg.org/ebooks/22299
